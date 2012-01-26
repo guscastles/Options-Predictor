@@ -5,6 +5,6 @@ package predictor
  */
 object Predictor {
   def main(args: Array[String]) {
-	  println("Initial class setup.")    
+	  println("Initial class setup.")
   }
 }
